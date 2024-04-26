@@ -57,9 +57,7 @@ public class project {
     }
 
     private void doHeading() {
-        System.out.println("#########################################################");
-        System.out.println("*********Railway Reservation For Doon11 Express***********");
-        System.out.println("#########################################################");
+        System.out.println("*********Railway Reservation For Doon Express***********");
     }
 
     private void doBook() {
@@ -203,8 +201,6 @@ public class project {
     }
 
     private void doExit() {
-        System.out.println("&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&");
         System.out.println("Project done by: Sarthak Rajput");
-        System.out.println("&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&");
     }
 }
